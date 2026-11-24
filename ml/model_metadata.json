@@ -1,0 +1,18 @@
+{
+  "architecture": "MobileNetV2 transfer learning",
+  "input_size": [
+    224,
+    224,
+    3
+  ],
+  "class_count": 5,
+  "classes": [
+    "Helathy",
+    "Magnessium",
+    "Nitrogen",
+    "Phosphorous",
+    "Pottasium"
+  ],
+  "test_accuracy": 0.7972972989082336,
+  "trained_at_utc": "2026-11-23T20:18:12.047810+00:00"
+}

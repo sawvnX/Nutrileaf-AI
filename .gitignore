@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+backend/nutrileaf.db
+backend/uploads/*
+ml/data/*
+ml/nutrileaf_model.keras

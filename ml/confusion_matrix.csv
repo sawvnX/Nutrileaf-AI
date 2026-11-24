@@ -1,0 +1,6 @@
+actual/predicted,Helathy,Magnessium,Nitrogen,Phosphorous,Pottasium
+Helathy,10,1,0,1,0
+Magnessium,2,16,0,0,1
+Nitrogen,0,1,10,2,3
+Phosphorous,0,0,1,17,0
+Pottasium,0,1,0,2,6
